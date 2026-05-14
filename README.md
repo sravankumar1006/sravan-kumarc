@@ -3,6 +3,7 @@
 <p align="Left">
 DevOps Engineer with 4+ years of experience in IT, specializing in AWS cloud infrastructure and automation for the past 3 years. Expert in architecting scalable environments using Terraform, Kubernetes, and Docker, with a proven track record of optimizing CI/CD workflows to drive deployment reliability and team productivity.
 
+
 <!--- p align="center">
 AWS Certified Solutions Architect – Associate Issued by Amazon Web Services(AWS) Training and Certification
 </p>
